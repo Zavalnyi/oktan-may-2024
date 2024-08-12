@@ -1,6 +1,5 @@
-let firstName = prompt();
-let middleName = prompt('middleName');
-let lastName =prompt('lastName');
-let person = firstName + ' ' + middleName + ' ' + lastName;
+let FirstName = prompt('firstName');
+let MiddleName = prompt('middleName');
+let LastName =prompt('lastName');
 
-console.log(person);
+console.log(FirstName + ' ' + MiddleName + ' ' + LastName);
